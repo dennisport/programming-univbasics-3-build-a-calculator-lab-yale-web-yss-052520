@@ -10,14 +10,17 @@ end
 
 def division(num1, num2)
 division = num1 / num2
+return
 end
 
 def multiplication(num1, num2)
-
+multiplication = num1 * num2
+return multiplication
 end
 
 def modulo(num1, num2)
-
+modulo = num1 % num2
+return modulo
 end
 
 def square_root(num)
