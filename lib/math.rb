@@ -24,6 +24,5 @@ return modulo
 end
 
 def square_root(num)
-square_root = num ** .5
-return
+math.square_root(num)
 end
