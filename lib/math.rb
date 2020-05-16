@@ -24,5 +24,6 @@ return modulo
 end
 
 def square_root(num)
-
+square_root = num ** .5
+return
 end
